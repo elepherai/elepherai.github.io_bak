@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ElepherAI</title>
+  
+  <subtitle>Focusing on AI.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://elepherai.com/"/>
+  <updated>2019-03-03T05:58:34.663Z</updated>
+  <id>https://elepherai.com/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网站搭建</title>
+    <link href="https://elepherai.com/2019/03/03/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
+    <id>https://elepherai.com/2019/03/03/网站搭建/</id>
+    <published>2019-03-03T05:40:50.000Z</published>
+    <updated>2019-03-03T05:58:34.663Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>域名购买：<a href="https://www.godaddy.com" target="_blank" rel="noopener">GoDaddy</a></li><li>网站托管：<a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></li><li>博客框架：<a href="https://hexo.io" target="_blank" rel="noopener">Hexo</a></li><li>博客主题：<a href="https://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT</a></li><li>域名解析：<a href="https://support.cloudflare.com" target="_blank" rel="noopener">Cloudflare</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;域名购买：&lt;a href=&quot;https://www.godaddy.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GoDaddy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;网站托管：&lt;a href=&quot;https://pages.github.com/&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>象与骑象人，AI与AI工程师</title>
+    <link href="https://elepherai.com/2019/03/02/%E8%B1%A1%E4%B8%8E%E9%AA%91%E8%B1%A1%E4%BA%BA%EF%BC%8CAI%E4%B8%8EAI%E5%B7%A5%E7%A8%8B%E5%B8%88/"/>
+    <id>https://elepherai.com/2019/03/02/象与骑象人，AI与AI工程师/</id>
+    <published>2019-03-02T13:48:15.000Z</published>
+    <updated>2019-03-03T03:30:30.359Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="提纲"><a href="#提纲" class="headerlink" title="提纲"></a>提纲</h3><ol><li>Why<br>1.1. 为什么写这篇文章</li><li>Who<br>2.1. 关于我<br>2.2. 《象与骑象人》作者<br>2.3. 此文章的读者</li><li>What<br>3.1. 什么是象与骑象人<br>3.2. 什么是AI，AI工程师是什么样的职业<br>3.3. 两者之间的关系</li><li>When<br>4.1. AI发展历史</li><li>Where<br>5.1. 南宁与象的渊源</li><li>How<br>6.1. 作为骑象人如何处理与象的关系<br>6.2. 作为AI工程师如何处理与AI的关系</li><li>How much<br>7.1 AI研究成本与门槛</li></ol><p>算起来，做AI相关的工作也差不多有5年了，接触了不少大大小小的项目，但一直没有写一篇AI相关的文章。</p><p>如今AI可谓井喷式发展：arxiv已经看不过来了，公众号每天频繁地推送，越来越多的框架出现，门槛也逐渐降低。一门技术火不火，看培训班狂热程度就知道了，开个玩笑。</p><p>接受太多的知识碎片，很容易陷入舒适区，并间歇性产生莫名的焦虑。感觉脑袋被充进大量的新鲜技术名词，人浮在半空中，不踏实。</p><p>于是下定决心开始写文章，脚踏实地做项目落地的同时，深入思考，分享收获。</p><p>最近看了一本书，美国心理学家乔纳森·海特写的，叫《象与骑象人》。这本书有意思的地方在于，作者把人的感性比作大象，理性比作大象背上的骑象人，两者之间的关系非常微妙，大象时而狂野、时而温顺，骑象人必须学会与大象友好相处，否则可能会被带沟里。</p><p>AI与AI工程师的关系也有类似的特点，比如，有时候给模型喂大量的数据，训练模型，最后测试的时候发现结果却不尽人意，可有时候效果却出奇地好。于是深度学习就有了各种隐喻，比如炼丹、驯兽。</p><p>象与骑象人，AI与AI工程师。这是我在阅读这本书的过程中产生的脑洞，继续深入挖掘吧。</p><p>未完待续~</p><h3 id="象与骑象人"><a href="#象与骑象人" class="headerlink" title="象与骑象人"></a>象与骑象人</h3><h3 id="AI与AI工程师"><a href="#AI与AI工程师" class="headerlink" title="AI与AI工程师"></a>AI与AI工程师</h3><hr><p>公众号：elepherai</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;提纲&quot;&gt;&lt;a href=&quot;#提纲&quot; class=&quot;headerlink&quot; title=&quot;提纲&quot;&gt;&lt;/a&gt;提纲&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Why&lt;br&gt;1.1. 为什么写这篇文章&lt;/li&gt;
+&lt;li&gt;Who&lt;br&gt;2.1. 关于我&lt;br&gt;2.2. 《象与骑象人》作者&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="AI" scheme="https://elepherai.com/tags/AI/"/>
+    
+  </entry>
+  
+</feed>
