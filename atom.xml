@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://elepherai.com/"/>
-  <updated>2019-03-03T05:58:34.663Z</updated>
+  <updated>2019-03-03T11:41:19.109Z</updated>
   <id>https://elepherai.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -16,7 +16,7 @@
     <link href="https://elepherai.com/2019/03/03/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
     <id>https://elepherai.com/2019/03/03/网站搭建/</id>
     <published>2019-03-03T05:40:50.000Z</published>
-    <updated>2019-03-03T05:58:34.663Z</updated>
+    <updated>2019-03-03T11:41:19.109Z</updated>
     
     <content type="html"><![CDATA[<ul><li>域名购买：<a href="https://www.godaddy.com" target="_blank" rel="noopener">GoDaddy</a></li><li>网站托管：<a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a></li><li>博客框架：<a href="https://hexo.io" target="_blank" rel="noopener">Hexo</a></li><li>博客主题：<a href="https://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT</a></li><li>域名解析：<a href="https://support.cloudflare.com" target="_blank" rel="noopener">Cloudflare</a></li></ul>]]></content>
     
@@ -30,6 +30,8 @@
       
     
     </summary>
+    
+      <category term="网站" scheme="https://elepherai.com/categories/%E7%BD%91%E7%AB%99/"/>
     
     
   </entry>
