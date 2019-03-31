@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://elepherai.com/"/>
-  <updated>2019-03-31T10:27:19.798Z</updated>
+  <updated>2019-03-31T10:33:57.444Z</updated>
   <id>https://elepherai.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -16,9 +16,9 @@
     <link href="https://elepherai.com/2019/03/31/CS231n-0-%E8%AF%BE%E7%A8%8B%E6%A6%82%E8%BF%B0/"/>
     <id>https://elepherai.com/2019/03/31/CS231n-0-课程概述/</id>
     <published>2019-03-31T09:12:28.000Z</published>
-    <updated>2019-03-31T10:27:19.798Z</updated>
+    <updated>2019-03-31T10:33:57.444Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="什么是CS231n？"><a href="#什么是CS231n？" class="headerlink" title="什么是CS231n？"></a>什么是CS231n？</h2><p>CS231n课程始于2015年，为斯坦福大学开展的网络课程，全名是《CS231n：面向视觉识别的卷积神经网络》，由李飞飞及其学生进行授课，重点介绍深度学习在计算机视觉上的应用。</p><h2 id="为什么要学习CS231n？"><a href="#为什么要学习CS231n？" class="headerlink" title="为什么要学习CS231n？"></a>为什么要学习CS231n？</h2><p>人工智能概念近几年极其火爆，时代使然，亦是众多研究者共同努力的结果。</p><p>人工智能技术不断突破的同时，所带来的潜在社会问题也逐渐引起人们的焦虑。</p><p>例如人工智能会不会导致人类失业？</p><p>我的答案是：会。</p><p>劳动力密集，技术含量低，重复性的工作容易被机器替代。举个例子，高速公路省界收费站即将推出历史舞台，实现不停车快捷收费，减少拥堵，便利群众。这背后少不了人工智能的功劳，当然也会导致收费站工作人员的失业或转业。</p><p>人工智能“人”字当先，以人为本，本质上是人类发明的一个工具。要善用工具，避免被工具化。</p><p>在人工智能的众多领域中，计算机视觉发展迅猛，其应用已进入人们的生活，如指纹识别、人脸识别等。</p><p>当前市面上各类人工智能速成课程层出不穷，质量参差不齐。CS231n经过多年的沉淀，受到了众多人的认可，重点关注在计算机视觉领域。</p><h2 id="如何学习CS231n？"><a href="#如何学习CS231n？" class="headerlink" title="如何学习CS231n？"></a>如何学习CS231n？</h2><p>CS231n的主页：<a href="http://cs231n.github.io/" target="_blank" rel="noopener">http://cs231n.github.io/</a>上包含了课程计划表，罗列了课程相关的材料，包括PPT与讲义等，也可通过课程视频进行学习。</p><p>本人在课程的基础上，加入自己的理解，以博客/微信公众号的形式进行记录。</p><p>网站：<a href="https://elepherai.com/">https://elepherai.com/</a></p><p>微信公众号：ElepherAI</p><p><img src="/CS231n-0-课程概述/ElepherAI_WeChat.jpg" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="什么是CS231n？"><a href="#什么是CS231n？" class="headerlink" title="什么是CS231n？"></a>什么是CS231n？</h2><p>CS231n课程始于2015年，为斯坦福大学开展的网络课程，全名是《CS231n：面向视觉识别的卷积神经网络》，由李飞飞及其学生进行授课，重点介绍深度学习在计算机视觉上的应用。</p><h2 id="为什么要学习CS231n？"><a href="#为什么要学习CS231n？" class="headerlink" title="为什么要学习CS231n？"></a>为什么要学习CS231n？</h2><p>人工智能概念近几年极其火爆，时代使然，亦是众多研究者共同努力的结果。</p><p>人工智能技术不断突破的同时，所带来的潜在社会问题也逐渐引起人们的焦虑。</p><p>例如人工智能会不会导致人类失业？</p><p>我的答案是：会。</p><p>劳动力密集，技术含量低，重复性的工作容易被机器替代。举个例子，高速公路省界收费站即将推出历史舞台，实现不停车快捷收费，减少拥堵，便利群众。这背后少不了人工智能的功劳，当然也会导致收费站工作人员的失业或转业。</p><p>人工智能“人”字当先，以人为本，本质上是人类发明的一个工具。要善用工具，避免被工具化。</p><p>在人工智能的众多领域中，计算机视觉发展迅猛，其应用已进入人们的生活，如指纹识别、人脸识别等。</p><p>当前市面上各类人工智能速成课程层出不穷，质量参差不齐。CS231n经过多年的沉淀，受到了众多人的认可，重点关注在计算机视觉领域。</p><h2 id="如何学习CS231n？"><a href="#如何学习CS231n？" class="headerlink" title="如何学习CS231n？"></a>如何学习CS231n？</h2><p>CS231n的主页：<a href="http://cs231n.github.io/" target="_blank" rel="noopener">http://cs231n.github.io/</a>上包含了课程计划表，罗列了课程相关的材料，包括PPT与讲义等，也可通过课程视频进行学习。</p><p>本人在课程的基础上，加入自己的理解，以博客/微信公众号的形式进行记录。</p><p>网站：<a href="https://elepherai.com/">https://elepherai.com/</a></p><p>微信公众号：ElepherAI</p><p><img src="/images/ElepherAI_WeChat.jpg" alt=""></p>]]></content>
     
     <summary type="html">
     
@@ -28,6 +28,8 @@
       
     
     </summary>
+    
+      <category term="CS231n" scheme="https://elepherai.com/categories/CS231n/"/>
     
     
   </entry>
